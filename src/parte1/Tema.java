@@ -1,5 +1,5 @@
 package parte1;
 
-public class Tema {
-
+public enum Tema {
+	PROGRAMACION,REDES,INFRAESTRUCTURA,IA,GESTION
 }
